@@ -9,35 +9,6 @@
  let kt = document.querySelector('.kt')
 
 
-
-// let box = document.querySelector('#box');
-
-
-
-// btn.addEventListener("click", function () {
-  
-//  let c1 = Math.floor(Math.random()*256)
-//  let c2 = Math.floor(Math.random()*256)
-//  let c3 = Math.floor(Math.random()*256)
-  
-
-//   if (flag == 0) {
-//     h2.innerHTML = "Friends";
-//     h2.style.color = "green";
-//     btn.innerHTML = "Remove Friend";
-//     flag = 1;
-//     box.style.backgroundColor = `rgb(${c1},${c2},${c3})`
-//   } else {
-//       box.style.backgroundColor = `rgb(${c1},${c2},${c3})`
-//     h2.innerHTML = "Stranger";
-//     h2.style.color = "Red";
-//     btn.innerHTML = "Add Friend";
-//     flag = 0;
-
-//   }
-// });
-
-
 let arr = [
   {
   team:'Chennai Super Kings',
